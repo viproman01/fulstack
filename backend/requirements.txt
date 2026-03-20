@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+statsmodels
+python-multipart
+pydantic
+scikit-learn
+numpy
